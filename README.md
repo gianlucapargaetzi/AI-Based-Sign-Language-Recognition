@@ -93,14 +93,6 @@ Of all candidate files, then the amount specified gets randomly selected for the
 
 ------------------------------------------------------------------------------------------------------------
 
-## ./Image Augmentation/DataAugMain.python
-
-<p> This program is used to augment an input dataset (in this case the collection of data created with DataSelection.ipynb). 
-In the GUI, input and output is selectable as well as the augmentation options can be configured 
-(Which and how many augmentation should be created and if they should be annotated with the keypoints)</p>
-
-------------------------------------------------------------------------------------------------------------
-
 ## ./SequencAugmentationTool
 
 <p> This program analyses the recorded gesture videos and is used to export the skeleton sequence with the specified amount of augmentations </p>
