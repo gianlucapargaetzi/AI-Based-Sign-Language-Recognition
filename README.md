@@ -112,3 +112,10 @@ In the GUI, input and output is selectable as well as the augmentation options c
 ------------------------------------------------------------------------------------------------------------
 
 This is the proof of principle for dynamic hand gesture recognition for a small self-recorded Dataset
+
+------------------------------------------------------------------------------------------------------------
+
+# /Edge Device Implementation in iOS App
+------------------------------------------------------------------------------------------------------------
+
+This is the edge-device implementation of the recognition of static gestures in an iOS-App, consisting of the Xcode project and the converter script to generate the Core ML model
