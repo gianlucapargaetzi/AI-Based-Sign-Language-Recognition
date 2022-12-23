@@ -1,9 +1,9 @@
 <p>This repository is the result of the project "AI-Based Sign Language Recognition", which
-implements the MediaPipe Pipepline to estimate and classify hand gestures from the ASL Alphabet. 
+implements the MediaPipe Pipepline to estimate and classify hand gestures from the ASL Alphabet. </p>
 
-The first part implements the recognition of static gestures with MediaPipe Hands and a proposed skip connections model for the classifier, trained with a big skeleton dataset extracted from image datasets available online
-The trained classifier model was implemented in a simple iOS-Demo-Application to show the Real-Time Potential on an Edge Device
-Additionally, a proof-of-principle for the recognition of dynamic Gestures was realised by training an LSTM-Network with Skeleton Sequences extracted with MediaPipe Holistic
+<p>The first part implements the recognition of static gestures with MediaPipe Hands and a proposed skip connections model for the classifier, trained with a big skeleton dataset extracted from image datasets available online.</p>
+<p>The trained classifier model was implemented in a simple iOS-Demo-Application to show the Real-Time Potential on an Edge Device</p>
+<p>Additionally, a proof-of-principle for the recognition of dynamic Gestures was realised by training an LSTM-Network with Skeleton Sequences extracted with MediaPipe Holistic</p>
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -88,8 +88,6 @@ This folder contains different python tools which were programmed to record and 
 ## ./Sequence_Generator.ipynb
 
 <p> With this file gestures can be recorded using a normal PC webcam <p>
-Of all candidate files, then the amount specified gets randomly selected for the dataset. </p>
-<p> Additional annotation can be set. To sort out bad image files (either no or wrong hand skeleton) every skeleton was visually controlled with the annotated skeleton </p>
 
 ------------------------------------------------------------------------------------------------------------
 
